@@ -13,3 +13,7 @@ This project analyzes e-commerce sales data using **Power BI** to track revenue,
 
 ## Live Demo:
 [View my project on Maven Analytics](https://mavenshowcase.com/project/54781)
+
+
+## Dashboard Screenshot:
+<img width="904" height="507" alt="E-Commerce Sales Dashboard ss" src="https://github.com/user-attachments/assets/3fbdbca3-a8dd-433e-83c6-a66394f8403f" />
