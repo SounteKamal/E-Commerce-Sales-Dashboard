@@ -2,7 +2,8 @@
 
 This project analyzes e-commerce sales data using **Power BI** to track revenue, profits, and customer trends.
 
-[Dashboard Preview]<img width="904" height="505" alt="E-Commerce sales Dashboard " src="https://github.com/user-attachments/assets/7914505e-890b-4fa8-9a63-ac745f5957ac" />
+[Dashboard Preview]<img width="907" height="506" alt="E-Commerce Sales Dashboard" src="https://github.com/user-attachments/assets/5253fb3e-2f44-49f2-ae72-c7433e24ce39" />
+
 
 
 ## Key Features:
